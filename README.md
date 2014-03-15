@@ -8,3 +8,4 @@ some ideas where your next trip is, just follow some blogger in the app :)
 
 Happy travel.
 
+https://github.com/johnalgeko/WanderLost/blob/master/following%20single.PNG?raw=true
